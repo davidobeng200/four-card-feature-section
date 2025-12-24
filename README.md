@@ -23,14 +23,14 @@ The challenge was to build a responsive four-card feature section that adapts we
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./screenshots.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/davidobeng200/four-card-feature-section.git)
+- Live Site URL: [GitHub Pages](https://davidobeng200.github.io/four-card-feature-section/)
 
 ## My process
 
@@ -99,7 +99,8 @@ In future projects, I want to:
 
 ## Author
 
-- Website - [DAVID OBENG ADJEI](https://www.your-site.com)
+- Website - [DAVID OBENG ADJEI](https://davidobeng200.github.io/four-card-feature-section/)
 - Frontend Mentor - [@davidobeng200](https://www.frontendmentor.io/profile/davidobeng200)
+
 
 

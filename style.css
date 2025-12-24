@@ -16,24 +16,24 @@ body{
 }
 
 #powered{
-    font-size: 2rem;
+    font-size: 2.2rem;
     font-weight: 600;
 }
 
 #reliable{
     font-weight: 200;
-    font-size: 2rem;
+    font-size: 2.2rem;
 }
 
 #artificial-intelligence{
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     font-weight: 400;
     text-align: center;
 }
 
 .cards{
-    width: 280px;
-    height: 200px;
+    width: 360px;
+    height: 250px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 5px;
     padding: 20px;
@@ -44,6 +44,7 @@ body{
 
 .container{
     min-height: 100vh;
+    margin-bottom: 15px;
 }
 
 #card-1{
@@ -80,16 +81,20 @@ body{
 }
 
 .card-title{
-    font-size: 1rem;
+    font-size: 1.2rem;
     font-weight: 600;
 }
 
+.card-description{
+    font-size: 0.9rem;
+}
+
 .icons{
-    height: 50px;
-    width: 50px;
+    height: 60px;
+    width: 60px;
     position: absolute;
-    bottom: 20px;
-    right: 20px;
+    bottom: 25px;
+    right: 25px;
 }
 @media(max-width: 768px) {
     .cards-container{

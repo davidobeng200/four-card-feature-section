@@ -7,7 +7,7 @@
 body{
     background-color: hsl(205, 63%, 95%);
     font-family: Poppins;
-    color:  hsl(234, 12%, 34%);
+    color:  hsl(212, 6%, 44%);
 }
 
 .intro{
@@ -129,3 +129,4 @@ body{
     line-height: 1.4;
   }
 }   
+
